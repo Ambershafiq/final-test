@@ -1,0 +1,55 @@
+.btn-1{
+    background-color: #c63928;
+     color: white;
+    border: none;
+    padding: 15px 30px;
+     
+}
+
+.btn-1:hover{
+    background-color: #ec4d50;
+}
+.btn-2{
+    background-color:yellow;
+    color:blue;
+    border:blue;
+    padding: 15px 30px;
+    
+}
+.btn-2:hover{background-color:#2a61fb
+
+}
+.btn-3{
+    background-color:#63d0c7;
+    color:white;
+    border:none;
+    padding: 15px 30px;
+}
+
+.btn-3:hover{
+    background-color:#63d0c7;
+
+
+}
+.btn-4{
+    background-color="white"
+    color:#fefdff;
+    border-:#fefdff;
+   padding: 15px 30px
+}
+
+.btn-4:hover{
+background-color: #6749ea;
+}
+.btn-5{
+    background-color:#ffc107;
+    color:white;
+    border-color:transparent;
+  padding: 15px 30px
+}
+.bt-5:hover{
+    background-color: #f38e31;
+}
+.twitter{
+    background-color: #37a1f3;
+}
